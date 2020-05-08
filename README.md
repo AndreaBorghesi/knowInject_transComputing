@@ -22,7 +22,7 @@ https://arxiv.org/abs/2002.10214).
 For more details on transprecision computing and how to use DL models in that
 settings we refer to "Combining Learning and Optimization for Transprecision
 Computing", Borghesi et  al., 2020, presented at Computing Frontiers 2020 (arXiv
-version: https://arxiv.org/abs/2002.10890)
+version: https://arxiv.org/abs/2002.10890).
 
 # Required dependencies
 
